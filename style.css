@@ -11120,6 +11120,35 @@ a.text-dark:hover, a.text-dark:focus {
   background: #869791;
 }
 
+.font-nunito {
+  font-family: "Nunito", cursive;
+  font-weight: bold;
+}
+
+.font-size-1 {
+  font-size: 0.8rem;
+}
+
+.font-size-2 {
+  font-size: 1.9rem;
+}
+
+.font-size-2 {
+  font-size: 3rem;
+}
+
+body {
+  font-family: "Inter", cursive;
+}
+
+#header .top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
 #header .navbar .collapse .nav-item {
   padding: 0 .4rem;
 }

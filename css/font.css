@@ -1,9 +1,9 @@
 @font-face {
     font-family: Nunito;
-    src: url(../fonts/NunitoSans-Regular.ttf)
+    src: url('../fonts/NunitoSans-Regular.ttf');
 }
 
 @font-face {
     font-family: Inter;
-    src: url(../fonts/Inter[slnt\,wght].ttf)
+    src: url('../fonts/Inter[slnt\,wght].ttf');
 }
