@@ -4,6 +4,7 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url(c:\Users\lilly s\Desktop\Web Projects\App Website\css\font.css);
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -11117,5 +11118,9 @@ a.text-dark:hover, a.text-dark:focus {
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
   background: #869791;
+}
+
+#header .navbar .collapse .nav-item {
+  padding: 0 .4rem;
 }
 /*# sourceMappingURL=style.css.map */
